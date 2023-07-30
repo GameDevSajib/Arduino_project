@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Name of Hotspot";
-const char* password = "Password";
+const char* ssid = "404 LAN";
+const char* password = "hello5mfs";
 
 WiFiServer server(80);
 
